@@ -15,6 +15,8 @@ STM32CubeIDE V1.1.0
 
 7.添加USB Host工程。
 
+8.添加EthernetBase工程。（电脑可以ping通开发板）
+
 
 
 
