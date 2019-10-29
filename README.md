@@ -11,5 +11,11 @@ STM32CubeIDE V1.1.0
 
 5.添加SOC_FLASH工程。
 
+6.添加RTC工程，重写time函数，可食用时间相关函数。
+
+7.添加USB Host工程。
+
+
+
 
 
